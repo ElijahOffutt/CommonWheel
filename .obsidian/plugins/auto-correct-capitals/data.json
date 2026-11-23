@@ -1,0 +1,8 @@
+{
+  "exclusionList": [
+    "Tauri",
+    "Nigga"
+  ],
+  "capitalizeListItem": true,
+  "capitalizeSentences": true
+}

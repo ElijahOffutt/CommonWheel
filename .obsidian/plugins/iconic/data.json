@@ -1,0 +1,915 @@
+{
+  "biggerIcons": "on",
+  "clickableIcons": "on",
+  "showAllFileIcons": true,
+  "showAllFolderIcons": true,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showMenuActions": true,
+  "showQuickSwitcherIcons": true,
+  "showItemName": "on",
+  "biggerSearchResults": "on",
+  "maxSearchResults": 30,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": true,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "3D Design": {
+      "icon": "lucide-rotate-3d",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "3D Design/BabylonJS": {
+      "icon": "lucide-building-2",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "3D Design/BabylonJS/BabylonJS.md": {
+      "icon": "👨‍🏫"
+    },
+    "3D Design/BabylonJS/Scenes.md": {
+      "icon": "🎭"
+    },
+    "3D Design/Blender": {
+      "icon": "lucide-boxes",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "3D Design/Blender/Blender MCP Server.md": {
+      "icon": "⚙️"
+    },
+    "3D Design/Blender/Blender.md": {
+      "icon": "👨‍🏫"
+    },
+    "3D Design/Blender/Interface and Navigation.md": {
+      "icon": "🖱️"
+    },
+    "3D Design/Overview.md": {
+      "icon": "lucide-book-text"
+    },
+    "Assets & Attachments": {
+      "icon": "lucide-hard-drive",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "b8c1dc2edaf5e471",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "BabylonJS/The Inspector.md": {
+      "icon": "lucide-glasses"
+    },
+    "Business": {
+      "icon": "lucide-chart-no-axes-combined",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "b8c1dc2edaf5e471",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Business/ElijahOffutt.com": {
+      "icon": "lucide-globe",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Business/ElijahOffutt.com/Blog Posts": {
+      "icon": "lucide-newspaper",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Business/ElijahOffutt.com/Website Copy.md": {
+      "icon": "🖥️"
+    },
+    "Business/Offutt Industries": {
+      "icon": "lucide-factory",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Business/Palantir Campaign": {
+      "icon": "lucide-rocket",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Business/Palantir Campaign/Palantir Project.md": {
+      "icon": "🔮"
+    },
+    "Career/LinkedIn": {
+      "icon": "lucide-linkedin",
+      "unsynced": [
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Career/LinkedIn/Definitions": {
+      "icon": "lucide-book-marked",
+      "unsynced": [
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Certifications/Cloud (Server & Software)": {
+      "icon": "lucide-cloud",
+      "unsynced": [
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Certifications/Cloud (Server & Software)/Overview.md": {
+      "icon": "📑"
+    },
+    "Certifications/Network": {
+      "icon": "lucide-cable",
+      "unsynced": [
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Certifications/Network/Overview.md": {
+      "icon": "📑"
+    },
+    "Certifications/Operating Systems": {
+      "icon": "lucide-computer",
+      "unsynced": [
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Certifications/Operating Systems/Linux": {
+      "icon": "🐧",
+      "unsynced": [
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Certifications/Operating Systems/Linux/Overview.md": {
+      "icon": "📑"
+    },
+    "Certifications/Operating Systems/Microsoft": {
+      "icon": "lucide-app-window",
+      "unsynced": [
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Certifications/Operating Systems/Microsoft/Overview.md": {
+      "icon": "📑"
+    },
+    "Certifications/Overview.md": {
+      "icon": "📑"
+    },
+    "Certifications/Security": {
+      "icon": "lucide-lock-keyhole",
+      "unsynced": [
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Certifications/Security/Overview.md": {
+      "icon": "📑"
+    },
+    "CompTIA": {
+      "icon": "lucide-pc-case",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "b8c1dc2edaf5e471",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "CompTIA/A+": {
+      "icon": "lucide-computer",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "b8c1dc2edaf5e471",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "CompTIA/A+/A+.md": {
+      "icon": "💻"
+    },
+    "CompTIA/A+/Core 1": {
+      "icon": "lucide-diamond",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "b8c1dc2edaf5e471",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "CompTIA/A+/Core 1/Memory & RAM.md": {
+      "icon": "💾"
+    },
+    "CompTIA/A+/Core 2": {
+      "icon": "lucide-diamond",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "b8c1dc2edaf5e471",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "CompTIA/Network+": {
+      "icon": "lucide-network",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "b8c1dc2edaf5e471",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "CompTIA/Security+": {
+      "icon": "lucide-lock-keyhole",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "b8c1dc2edaf5e471",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Dictionary": {
+      "icon": "lucide-book-marked",
+      "unsynced": [
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Dictionary/Agencies & Organizations": {
+      "icon": "lucide-building",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Dictionary/Companies": {
+      "icon": "lucide-building-2",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Dictionary/Companies/Microsoft.md": {
+      "icon": "lucide-building-2"
+    },
+    "Dictionary/Companies/Oracle.md": {
+      "icon": "lucide-building-2"
+    },
+    "Dictionary/Information Technology.md": {
+      "icon": "lucide-book-type"
+    },
+    "Dictionary/Modals": {
+      "icon": "lucide-brain",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Dictionary/People": {
+      "icon": "lucide-person-standing",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Dictionary/Products & Services": {
+      "icon": "lucide-dollar-sign",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Dictionary/Terms": {
+      "icon": "lucide-book-type",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Education": {
+      "icon": "lucide-graduation-cap",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "b8c1dc2edaf5e471",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Education/Financial": {
+      "icon": "lucide-dollar-sign",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "b8c1dc2edaf5e471",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Education/Financial/Economics": {
+      "icon": "lucide-building-2",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "b8c1dc2edaf5e471",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Education/Life Sciences": {
+      "icon": "lucide-leaf",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "b8c1dc2edaf5e471",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Education/Technology": {
+      "icon": "lucide-binary",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "b8c1dc2edaf5e471",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Education/Technology/Computer Science": {
+      "icon": "lucide-code-2",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "b8c1dc2edaf5e471",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Hardware & Engineering": {
+      "icon": "lucide-circuit-board",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Hardware & Engineering/Civil": {
+      "icon": "lucide-building-2",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Hardware & Engineering/Computer": {
+      "icon": "lucide-computer",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Hardware & Engineering/Electrical": {
+      "icon": "lucide-circuit-board",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Hardware & Engineering/Home Lab": {
+      "icon": "lucide-microscope",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Hardware & Engineering/Materials": {
+      "icon": "lucide-tool-case",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Hardware & Engineering/Mechanical": {
+      "icon": "lucide-cog",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Hardware & Engineering/Mechatronics": {
+      "icon": "lucide-brain-circuit",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Home Lab": {
+      "icon": "lucide-server",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Information Technology": {
+      "icon": "lucide-network",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Information Technology/Cloud": {
+      "icon": "lucide-cloud-cog",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Information Technology/Cloud/AWS": {
+      "icon": "lucide-cloud",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Information Technology/Cloud/Azure": {
+      "icon": "lucide-blocks",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Information Technology/Cloud/Cloudflare": {
+      "icon": "lucide-sparkle",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Information Technology/Cloud/GCP": {
+      "icon": "lucide-cloudy",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Information Technology/Computers": {
+      "icon": "lucide-laptop",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Information Technology/Computers/CompTIA A+": {
+      "icon": "lucide-a-arrow-up",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Information Technology/Networking": {
+      "icon": "lucide-network",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Information Technology/Networking/Vocabulary": {
+      "icon": "lucide-book-marked",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Information Technology/Operating Systems": {
+      "icon": "lucide-computer",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Information Technology/Operating Systems/Linux/Red Hat": {
+      "icon": "lucide-hat-glasses",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Information Technology/Operating Systems/Linux/Red Hat/RHSCA": {
+      "icon": "lucide-server",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Information Technology/Overview.md": {
+      "icon": "lucide-book-text"
+    },
+    "Information Technology/Security": {
+      "icon": "lucide-shield-check",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Information Technology/Security/Defensive": {
+      "icon": "lucide-shield-plus",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Information Technology/Security/Offensive": {
+      "icon": "lucide-shield-x",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Information Technology/Tools": {
+      "icon": "lucide-hammer",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Information Technology/Tools/Bash": {
+      "icon": "lucide-terminal-square",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Master Overview.md": {
+      "icon": "lucide-trophy"
+    },
+    "Mechanical Engineering": {
+      "icon": "lucide-bot",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "b8c1dc2edaf5e471",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Mechanical Engineering/Robotics Pillars.md": {
+      "icon": "🏛️"
+    },
+    "Miscellaneous": {
+      "icon": "lucide-inbox",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Personal": {
+      "icon": "lucide-user",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "b8c1dc2edaf5e471",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Productivity": {
+      "icon": "lucide-file-chart-line",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "b8c1dc2edaf5e471",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Productivity/AI Templates/LinkedIn Post Template.md": {
+      "icon": "lucide-linkedin"
+    },
+    "Quick.md": {
+      "icon": "lucide-paperclip"
+    },
+    "Software Engineering": {
+      "icon": "lucide-terminal",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "b8c1dc2edaf5e471",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Software Engineering/4 Pillars of Computer Science.md": {
+      "icon": "🏛️"
+    },
+    "Software Engineering/Data": {
+      "icon": "lucide-database",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "b8c1dc2edaf5e471",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Software Engineering/Data/Design.md": {
+      "icon": "lucide-paintbrush"
+    },
+    "Software Engineering/Data/SurrealDB": {
+      "icon": "lucide-database-zap",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Software Engineering/Data/SurrealDB/The Book": {
+      "icon": "lucide-book-marked",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Software Engineering/Data/SurrealDB/University": {
+      "icon": "lucide-graduation-cap",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Software Engineering/Game Development": {
+      "icon": "lucide-gamepad-2",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "b8c1dc2edaf5e471",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Software Engineering/Programming": {
+      "icon": "lucide-binary",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "b8c1dc2edaf5e471",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Software Engineering/Programming/Data Structures.md": {
+      "icon": "lucide-braces"
+    },
+    "Software Engineering/Programming/Programing Glossary.md": {
+      "icon": "🔎"
+    },
+    "Software Engineering/Programming/Rust": {
+      "icon": "lucide-cog",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Software Engineering/Programming/Rust/By Example": {
+      "icon": "lucide-function-square",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Software Engineering/Programming/Rust/Glossary.md": {
+      "icon": "🔍"
+    },
+    "Software Engineering/Programming/Rust/Rust In Action": {
+      "icon": "lucide-swords",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Software Engineering/Programming/Rust/Rust for Rustaceans": {
+      "icon": "lucide-sailboat",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Software Engineering/Programming/Rust/Rust.md": {
+      "icon": "🦀"
+    },
+    "Software Engineering/Programming/Rust/The Book": {
+      "icon": "lucide-book-marked",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Software Engineering/Programming/Rust/The Book/Getting Started.md": {
+      "icon": "🚀"
+    },
+    "Software Engineering/Programming/Rust/The Book/Guessing Game.md": {
+      "icon": "❓"
+    },
+    "Software Engineering/Solution & Application Design.md": {
+      "icon": "✨"
+    },
+    "Software Engineering/Web": {
+      "icon": "lucide-globe",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "b8c1dc2edaf5e471",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    },
+    "Software": {
+      "icon": "lucide-binary",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Software/Assets & Attachments": {
+      "icon": "lucide-image",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Software/Concepts": {
+      "icon": "lucide-brain-circuit",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Software/Concepts/Data Modeling": {
+      "icon": "lucide-database",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Software/Concepts/Data Modeling/Schema Design.md": {
+      "icon": "lucide-table-2"
+    },
+    "Software/Game Development & Design": {
+      "icon": "lucide-gamepad-2",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Software/Languages": {
+      "icon": "lucide-file-terminal",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Software/Overview.md": {
+      "icon": "lucide-book-text"
+    },
+    "Software/Projects & Demos": {
+      "icon": "lucide-presentation",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Software/Projects & Demos/Leidos": {
+      "icon": "lucide-layout-dashboard",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "Software/Technologies": {
+      "icon": "lucide-circuit-board",
+      "unsynced": [
+        "35f7bfa886602329"
+      ]
+    },
+    "ToDo": {
+      "icon": "lucide-check-square",
+      "unsynced": [
+        "44f687756a98e1b9",
+        "b8c1dc2edaf5e471",
+        "363dae4a54ef7937",
+        "238a0d9bdb151caf",
+        "e8c5df7f2cc3dbc5",
+        "ff8ea8c5646e212a",
+        "35f7bfa886602329"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}

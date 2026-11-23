@@ -1,0 +1,12 @@
+{
+  "theme": "moonstone",
+  "cssTheme": "Typewriter",
+  "accentColor": "#f09c3d",
+  "interfaceFontFamily": "Arial,Bahnschrift",
+  "textFontFamily": "Arial",
+  "monospaceFontFamily": "Source Code Pro",
+  "baseFontSize": 22,
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "showRibbon": false
+}
