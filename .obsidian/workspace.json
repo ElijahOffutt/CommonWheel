@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "README"
             }
           }
         ],
@@ -259,10 +259,20 @@
   },
   "active": "2b6ef41231522275",
   "lastOpenFiles": [
+    "services/Services.md",
+    "README.md",
+    "documentation/Documentation.md",
+    "data/Data.md",
+    "data/databases/sql/wordpess/WordPress.md",
+    "data/databases/sql/wordpess",
+    "data/databases/sql",
+    "data/databases",
+    "clients/web/Web Applications.md",
+    "clients/mobile/Mobile Applications.md",
+    "clients/web",
     "Midas check list.md",
     "hmm.md",
     "Projects/Common Wheel/Infra/Initial Services.md",
-    "Untitled.md",
     "Projects/Debt Releif/Initial.md",
     "Projects/Common Wheel/SRS/Marketing Site.md",
     "Projects/Debt Releif",
@@ -285,17 +295,7 @@
     "Projects/The Game.md",
     "Projects/Untitled 1.md",
     "Assets & Attachments/Untitled.png",
-    "Projects/BeanStalk/Diagram.md",
-    "Projects/TermKit.md",
-    "Projects/Untitled.md",
-    "Projects/Phoenix Forge.md",
-    "Projects/BeanStalk/BeanStalk.md",
-    "Projects/Lanyard/SRS.md",
     "Projects/Lanyard",
-    "Projects/BeanStalk/Untitled",
-    "Projects/BeanStalk",
-    "Software/Languages/Java/Nava Interview Prep",
-    "Software/Languages/Java/Untitled",
     "Assets & Attachments/Pasted image 20260701185546.png",
     "Assets & Attachments/RHCSA Banner.png",
     "Assets & Attachments/Security Controls Baseline Banner.png",
